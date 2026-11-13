@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Sorteia</string>
+    <string name="app_subtitle">Sorteador de palavras</string>
+    <string name="result_card_empty_title">Pronto para sortear</string>
+    <string name="result_card_empty_subtitle">Adicione palavras à sua lista personalizada e toque em Sortear.</string>
+    <string name="result_card_ready_title">Lista pronta</string>
+    <string name="result_card_ready_subtitle">Toque no botão abaixo para escolher uma palavra aleatoriamente.</string>
+    <string name="result_card_drawing">Sorteando…</string>
+    <string name="result_card_winner_label">Palavra sorteada</string>
+    <string name="result_card_all_drawn_title">Todas as palavras já foram sorteadas</string>
+    <string name="result_card_all_drawn_subtitle">Reinicie a rodada ou adicione novas palavras à lista.</string>
+    <string name="draw_button">Sortear palavra</string>
+    <string name="draw_again_button">Sortear outra</string>
+    <string name="reset_round_button">Reiniciar rodada</string>
+    <string name="copy_word_cd">Copiar palavra sorteada</string>
+    <string name="copied_snackbar">Palavra \"%1$s\" copiada!</string>
+    <string name="add_word_label">Nova palavra</string>
+    <string name="add_word_placeholder">Digite uma palavra…</string>
+    <string name="add_word_cd">Adicionar palavra à lista</string>
+    <string name="paste_list_button">Colar lista</string>
+    <string name="paste_list_sheet_title">Adicionar lista personalizada</string>
+    <string name="paste_list_sheet_hint">Digite ou cole várias palavras separadas por linha, vírgula ou ponto e vírgula.</string>
+    <string name="paste_list_placeholder">Ex.: Criatividade\nCoragem\nAventura\nFoco</string>
+    <string name="paste_list_detected_count" translatable="false">%1$d</string>
+    <string name="paste_list_detected_words">%1$d palavra(s) detectada(s)</string>
+    <string name="paste_list_mode_append">Adicionar à lista atual</string>
+    <string name="paste_list_mode_replace">Substituir lista atual</string>
+    <string name="paste_list_confirm">Importar palavras</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="word_pool_title">Sua lista</string>
+    <string name="word_pool_count_all">%1$d palavra(s)</string>
+    <string name="word_pool_count_remaining">%1$d restante(s) de %2$d</string>
+    <string name="clear_all_button">Limpar tudo</string>
+    <string name="list_cleared_snackbar">Lista limpa</string>
+    <string name="undo_action">Desfazer</string>
+    <string name="avoid_repeats_label">Não repetir sorteadas</string>
+    <string name="avoid_repeats_desc">Remove temporariamente da rodada até reiniciar</string>
+    <string name="remove_word_cd">Remover %1$s</string>
+    <string name="already_drawn_badge">Sorteada</string>
+    <string name="history_title">Histórico da rodada</string>
+    <string name="empty_illustration_cd">Ilustração de tigela com papéis de palavras para sorteio</string>
+    <string name="empty_list_helper">Dica: você pode adicionar palavras uma a uma ou usar \"Colar lista\" para importar várias de uma vez.</string>
+    <string name="duplicate_word_snackbar">\"%1$s\" já está na lista</string>
+    <string name="imported_words_snackbar">%1$d palavra(s) adicionada(s)</string>
+</resources>

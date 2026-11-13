@@ -1,0 +1,6 @@
+{
+  "name": "Sorteia",
+  "description": "Aplicativo simples de sorteio de palavras para criar listas personalizadas e sortear aleatoriamente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
